@@ -1,0 +1,38 @@
+# 秘密情報・認証情報
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+secrets*.yaml
+secrets*.yml
+*.secret
+id_rsa*
+id_ed25519*
+
+# エディタ・IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OSが生成するファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Office系の一時ファイル・ロックファイル
+~$*
+*.tmp
+
+# ログ
+*.log
+
+# Claude Code のローカル設定
+.claude/
+CLAUDE.md
