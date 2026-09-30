@@ -16,4 +16,5 @@ Blogger・note・Facebook記事の共有資料
 <!-- 資料を追加したら、ここに追記する(新しいものを上に) -->
 | カテゴリ | 資料名 | 概要 | 資料 | 記事 |
 |---|---|---|---|---|
+| claude | Claudeで写真の整理 | Claude Codeで写真ライブラリ(約8.8万件・約297GB)の重複を除き、Vision APIでタグを付け、機種別フォルダに整理した作業記録 | [写真ライブラリ整理プロジェクト 記録](claude/2026-09-photo-library-cleanup/photo_project_record.md) |  |
 | claude | 記事資料をGitHubで共有する仕組み | 構築手順と運用ルール | [構築・運用ガイド](claude/docs-repo-setup/guide.md) |  |
